@@ -1,2 +1,3 @@
 Welcome to GitHub
 This is for conflict files while merging 
+Same line from GitHub portal for conflicting changes
